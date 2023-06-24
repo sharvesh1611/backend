@@ -1,0 +1,5 @@
+CONSTANT={};
+
+CONSTANT.SCHEMAS=[
+    'signlog'
+];
